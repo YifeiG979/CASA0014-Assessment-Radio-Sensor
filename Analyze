@@ -1,0 +1,16 @@
+V1:
+Design one's own voice reception sensor initially
+  a. Audio Sensors
+  b. Microphone
+  c. Voice Recognization
+  (ALL three sensors could be found in CE Classroom)
+
+Preliminary Thought:
+  Using audio sensors to collect voice and using microphone and voice recognization sensors to collect human speeking. 
+  Problem && Difficults:
+  1. The sensitivity of the sensor is not good. The data received is all relatively small, and it is unable to clearly distinguish many sounds.
+  2. Voice Recognizaiton might be useless.
+
+First Step Plan:
+1. Check whether the computer can connect to WIFI 1010 and be connected to the school network.
+2. The detection sensor is capable of being used, and it tests whether the connection is successful and whether sound information is received. 
