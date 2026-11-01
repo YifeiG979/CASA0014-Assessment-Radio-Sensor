@@ -14,3 +14,6 @@ Preliminary Thought:
 First Step Plan:
 1. Check whether the computer can connect to WIFI 1010 and be connected to the school network.
 2. The detection sensor is capable of being used, and it tests whether the connection is successful and whether sound information is received. 
+
+Arudio_secrets.h------- Network connection and final lighting connection code
+Radio_sensor_test.ino------ Test whether the radio sensor can be used and whether it can receive sounds
