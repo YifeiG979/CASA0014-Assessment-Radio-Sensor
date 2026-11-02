@@ -18,7 +18,7 @@ First Step Plan:
 
 V2: 
 Connected radio sensors to WIFI 1010 and School Internet.
-RadioWaveFinal.ino-------- Radio sensor flashing light code
+RadioWaveTest.ino-------- Radio sensor flashing light code
   Problem:
     1. The color change is not significant. 
       Solutions: Improve sensitivity analysis
