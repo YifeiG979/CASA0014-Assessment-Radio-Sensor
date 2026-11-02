@@ -15,6 +15,7 @@ const char* mqttTopic =
   "student/CASA0014/luminaire/13";
 WiFiClient wifiClient;
 PubSubClient mqttClient(wifiClient);
+
 //2. Connect MAX4466 with WIFI 1010
 const int MIC_PIN = A0;
 float noiseFloor = 0;
