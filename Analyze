@@ -14,3 +14,15 @@ Preliminary Thought:
 First Step Plan:
 1. Check whether the computer can connect to WIFI 1010 and be connected to the school network.
 2. The detection sensor is capable of being used, and it tests whether the connection is successful and whether sound information is received. 
+
+
+V2: 
+Connected radio sensors to WIFI 1010 and School Internet.
+RadioWaveFinal.ino-------- Radio sensor flashing light code
+  Problem:
+    1. The color change is not significant. 
+      Solutions: Improve sensitivity analysis
+    2. Sometimes information cannot be achieved
+      Solutions: Check the network connection, ensure that the code is logically consistent throughout, and verify the stability of the campus WiFi.
+
+The goal of V2 is to test whether the final product functions are complete and to carry out optimization.
