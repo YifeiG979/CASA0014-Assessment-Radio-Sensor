@@ -74,7 +74,7 @@ Create `arduino_secrets.h` alongside the `.ino` file:
 ## Setup 
 1. Wire the MAX4466 to **3.3V**, **GND**, and **A0**. 
 2. Install the required Arduino libraries.
-3. Create `arduino_secrets.h` with your own Wi-Fi and MQTT credentials.
+3. Create `arduino_secrets.h` with Wi-Fi and MQTT credentials.
 4. Select **Arduino MKR WiFi 1010** in Arduino IDE, then upload the sketch. 
 5. Open **Serial Monitor at 115200 baud**. 
 6. Keep the room relatively quiet for the first **3 seconds** to establish the background-noise baseline. 
@@ -87,7 +87,7 @@ The project turns an invisible part of the classroom environment into shared vis
 
 
 
-## Limitations and Future Development | 局限与改进
+## Limitations and Future Development
 - **Not a decibel meter ** Raw MAX4466 amplitudes are not calibrated sound-pressure levels.
 - **No source recognition ** Sound amplitude alone cannot reliably distinguish talking, typing, and clapping.
 - **Environment-dependent ** Microphone gain, distance, and background noise affect sensitivity.
