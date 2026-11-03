@@ -26,3 +26,9 @@ RadioWaveTest.ino-------- Radio sensor flashing light code
       Solutions: Check the network connection, ensure that the code is logically consistent throughout, and verify the stability of the campus WiFi.
 
 The goal of V2 is to test whether the final product functions are complete and to carry out optimization.
+
+V3: (Final Version)
+Complete the production of the entire work, including the creation of the appearance.
+RadioWaveFianl.ino------- Final version of coding
+  1. The sensor function has become more complete and more sensitive, resolving the V2 Problem 1.
+  2. The interface connection was reset, making the connection more stable and resolving the V2 Problem 2.
