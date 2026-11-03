@@ -82,6 +82,9 @@ Create `arduino_secrets.h` alongside the `.ino` file:
 
 ## Design Intention
 The project turns an invisible part of the classroom environment into shared visual feedback. Its purpose is to help people notice collective sound changes.
+<img width="3000" height="4000" alt="Final Product" src="https://github.com/user-attachments/assets/4f6185bb-a5ac-47b3-9651-e353fd1d6488" />
+<img width="2736" height="3648" alt="Radio Sensors" src="https://github.com/user-attachments/assets/c31462ca-6617-4a62-9a96-9b7392be5dbe" />
+
 
 
 ## Limitations and Future Development | 局限与改进
