@@ -1,9 +1,9 @@
-# Sound Translator | 声音翻译器
+# Sound Translator
 **Making classroom sound visible through responsive light.**  
 
 Sound Translator is an interactive classroom installation that converts changes in surrounding sound into colour, brightness, and movement. A **MAX4466 microphone** captures audio amplitude; an **Arduino MKR WiFi 1010** processes it and sends RGB frames over **Wi-Fi and MQTT** to **Luminaire 13**, a **12 × 6 (72 LED)** lighting grid.
 
-## How It Works | 工作原理
+## How It Works
 ```text
 Classroom sound 
           ↓
